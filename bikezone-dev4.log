@@ -1,0 +1,56 @@
+
+> bikezone@0.1.0 dev
+> next dev -p 4500
+
+▲ Next.js 16.2.12 (Turbopack)
+- Local:         http://localhost:4500
+- Network:       http://192.168.56.1:4500
+✓ Ready in 751ms
+
+○ Compiling / ...
+ GET / 200 in 6.6s (next.js: 5.7s, application-code: 939ms)
+ GET / 200 in 779ms (next.js: 10ms, application-code: 769ms)
+✓ Compiled in 189ms
+✓ Compiled in 1252ms
+✓ Compiled in 201ms
+✓ Compiled in 130ms
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET / 200 in 842ms (next.js: 52ms, application-code: 789ms)
+ GET / 200 in 845ms (next.js: 701ms, application-code: 144ms)
+ GET / 200 in 846ms (next.js: 753ms, application-code: 93ms)
+ GET / 200 in 913ms (next.js: 5ms, application-code: 908ms)
+ GET / 200 in 1279ms (next.js: 238ms, application-code: 1041ms)
+ GET / 200 in 877ms (next.js: 5ms, application-code: 872ms)
+✓ Compiled in 289ms
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET / 200 in 923ms (next.js: 56ms, application-code: 867ms)
+ GET / 200 in 1269ms (next.js: 216ms, application-code: 1053ms)
+ GET / 200 in 265ms (next.js: 14ms, application-code: 251ms)
+ GET / 200 in 265ms (next.js: 127ms, application-code: 139ms)
+ GET / 200 in 266ms (next.js: 191ms, application-code: 75ms)
+ GET / 200 in 960ms (next.js: 5ms, application-code: 955ms)
+✓ Compiled in 236ms
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET / 200 in 2.3s (next.js: 372ms, application-code: 1964ms)
+ GET / 200 in 329ms (next.js: 187ms, application-code: 142ms)
+ GET / 200 in 332ms (next.js: 21ms, application-code: 311ms)
+ GET / 200 in 1770ms (next.js: 7ms, application-code: 1764ms)
+ GET / 200 in 1839ms (next.js: 118ms, application-code: 1720ms)
+ GET / 200 in 383ms (next.js: 132ms, application-code: 250ms)
+ GET / 200 in 166ms (next.js: 8ms, application-code: 158ms)
+ GET / 200 in 72ms (next.js: 4ms, application-code: 68ms)
+✓ Compiled in 87ms
+ GET / 200 in 506ms (next.js: 179ms, application-code: 328ms)
+ GET / 200 in 195ms (next.js: 9ms, application-code: 186ms)
+ GET / 200 in 81ms (next.js: 6ms, application-code: 75ms)
+✓ Compiled in 210ms
+ GET / 200 in 315ms (next.js: 188ms, application-code: 127ms)
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+✓ Compiled in 146ms
+ GET / 200 in 996ms (next.js: 160ms, application-code: 836ms)
+✓ Compiled in 119ms
+ GET / 200 in 364ms (next.js: 191ms, application-code: 173ms)
+ GET / 200 in 674ms (next.js: 3ms, application-code: 671ms)
+ GET /finder 200 in 858ms (next.js: 722ms, application-code: 136ms)
+ GET /finder 200 in 126ms (next.js: 5ms, application-code: 121ms)
+ GET /finder 200 in 185ms (next.js: 5ms, application-code: 180ms)

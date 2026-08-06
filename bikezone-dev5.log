@@ -1,0 +1,187 @@
+
+> bikezone@0.1.0 dev
+> next dev -p 4600
+
+▲ Next.js 16.2.12 (Turbopack)
+- Local:         http://localhost:4600
+- Network:       http://192.168.56.1:4600
+✓ Ready in 753ms
+
+ GET / 200 in 1264ms (next.js: 312ms, application-code: 953ms)
+ GET /finder 200 in 159ms (next.js: 37ms, application-code: 122ms)
+ GET / 200 in 401ms (next.js: 7ms, application-code: 395ms)
+ GET /collection 404 in 917ms (next.js: 774ms, application-code: 143ms)
+ GET /collection 404 in 115ms (next.js: 6ms, application-code: 108ms)
+ GET /finder 200 in 32ms (next.js: 4ms, application-code: 29ms)
+ GET /finder 200 in 38ms (next.js: 4ms, application-code: 33ms)
+ GET /finder 200 in 38ms (next.js: 4ms, application-code: 34ms)
+ GET /compare 200 in 915ms (next.js: 716ms, application-code: 200ms)
+ GET / 200 in 418ms (next.js: 7ms, application-code: 411ms)
+ GET /compare 200 in 168ms (next.js: 5ms, application-code: 163ms)
+ GET / 200 in 308ms (next.js: 4ms, application-code: 304ms)
+ GET /compare 200 in 34ms (next.js: 5ms, application-code: 29ms)
+✓ Compiled in 1133ms
+ GET /compare 200 in 722ms (next.js: 155ms, application-code: 567ms)
+ GET /compare 200 in 475ms (next.js: 390ms, application-code: 85ms)
+ GET /compare 200 in 758ms (next.js: 5ms, application-code: 754ms)
+ GET / 200 in 1027ms (next.js: 184ms, application-code: 844ms)
+ GET /compare 200 in 54ms (next.js: 5ms, application-code: 49ms)
+ GET /emi-calculator 200 in 1096ms (next.js: 827ms, application-code: 268ms)
+ GET / 200 in 375ms (next.js: 3ms, application-code: 372ms)
+[browser] Image with src "https://images.unsplash.com/photo-1591637333184-19aa84b3e01f?q=80&w=1200&auto=format&fit=crop" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+ GET /emi-calculator?bike=suzuki-gs150 200 in 41ms (next.js: 6ms, application-code: 35ms)
+✓ Compiled in 122ms
+ GET /emi-calculator?bike=suzuki-gs150 200 in 268ms (next.js: 125ms, application-code: 142ms)
+ GET /emi-calculator?bike=suzuki-gs150 200 in 75ms (next.js: 6ms, application-code: 70ms)
+✓ Compiled in 79ms
+ GET /emi-calculator?bike=suzuki-gs150 200 in 363ms (next.js: 114ms, application-code: 249ms)
+ GET /emi-calculator?bike=suzuki-gs150 200 in 110ms (next.js: 22ms, application-code: 88ms)
+ GET /emi-calculator?bike=suzuki-gs150 200 in 200ms (next.js: 121ms, application-code: 79ms)
+ GET /emi-calculator?bike=suzuki-gs150 200 in 191ms (next.js: 124ms, application-code: 67ms)
+ GET /finder 200 in 617ms (next.js: 164ms, application-code: 452ms)
+✓ Compiled in 150ms
+ GET / 200 in 871ms (next.js: 174ms, application-code: 697ms)
+ GET /compare 200 in 180ms (next.js: 132ms, application-code: 48ms)
+ GET / 200 in 45ms (next.js: 2ms, application-code: 43ms)
+ GET /collection 404 in 580ms (next.js: 139ms, application-code: 441ms)
+ GET /collection 404 in 395ms (next.js: 14ms, application-code: 381ms)
+✓ Compiled in 211ms
+✓ Compiled in 210ms
+✓ Compiled in 195ms
+✓ Compiled in 460ms
+ GET /finder 200 in 379ms (next.js: 138ms, application-code: 240ms)
+ GET / 200 in 981ms (next.js: 407ms, application-code: 574ms)
+ GET / 200 in 499ms (next.js: 13ms, application-code: 486ms)
+ GET / 200 in 313ms (next.js: 6ms, application-code: 308ms)
+ GET / 200 in 313ms (next.js: 65ms, application-code: 248ms)
+ GET / 200 in 374ms (next.js: 118ms, application-code: 255ms)
+ GET /finder 200 in 174ms (next.js: 4ms, application-code: 170ms)
+ GET /finder 200 in 180ms (next.js: 6ms, application-code: 173ms)
+ GET / 200 in 336ms (next.js: 3ms, application-code: 334ms)
+ GET /finder 200 in 159ms (next.js: 6ms, application-code: 153ms)
+ GET /finder 200 in 109ms (next.js: 6ms, application-code: 102ms)
+ GET /finder 200 in 55ms (next.js: 6ms, application-code: 50ms)
+✓ Compiled in 93ms
+ GET /finder 200 in 217ms (next.js: 53ms, application-code: 164ms)
+ GET / 200 in 535ms (next.js: 200ms, application-code: 335ms)
+✓ Compiled in 209ms
+ GET /finder 200 in 638ms (next.js: 207ms, application-code: 431ms)
+ GET / 200 in 648ms (next.js: 511ms, application-code: 136ms)
+ GET / 200 in 938ms (next.js: 4ms, application-code: 935ms)
+ GET / 200 in 363ms (next.js: 4ms, application-code: 359ms)
+ GET / 200 in 391ms (next.js: 6ms, application-code: 385ms)
+ GET /collection 404 in 66ms (next.js: 29ms, application-code: 38ms)
+ GET /collection 404 in 139ms (next.js: 6ms, application-code: 133ms)
+ GET / 200 in 78ms (next.js: 3ms, application-code: 75ms)
+✓ Compiled in 271ms
+✓ Compiled in 211ms
+✓ Compiled in 158ms
+✓ Compiled in 159ms
+✓ Compiled in 185ms
+✓ Compiled in 460ms
+ GET / 200 in 1595ms (next.js: 601ms, application-code: 994ms)
+ GET / 200 in 730ms (next.js: 213ms, application-code: 517ms)
+ GET / 200 in 353ms (next.js: 138ms, application-code: 214ms)
+ GET / 200 in 356ms (next.js: 7ms, application-code: 349ms)
+ GET / 200 in 354ms (next.js: 215ms, application-code: 139ms)
+ GET / 200 in 360ms (next.js: 63ms, application-code: 297ms)
+ GET / 200 in 484ms (next.js: 12ms, application-code: 472ms)
+ GET / 200 in 483ms (next.js: 178ms, application-code: 305ms)
+ GET / 200 in 483ms (next.js: 102ms, application-code: 381ms)
+ GET / 200 in 480ms (next.js: 254ms, application-code: 225ms)
+ GET / 200 in 151ms (next.js: 65ms, application-code: 86ms)
+ GET / 200 in 235ms (next.js: 83ms, application-code: 152ms)
+ GET / 200 in 2.5s (next.js: 6ms, application-code: 2.5s)
+✓ Compiled in 195ms
+ GET / 200 in 564ms (next.js: 261ms, application-code: 303ms)
+ GET / 200 in 128ms (next.js: 4ms, application-code: 124ms)
+✓ Compiled in 123ms
+ GET / 200 in 571ms (next.js: 287ms, application-code: 283ms)
+ GET / 200 in 158ms (next.js: 9ms, application-code: 149ms)
+ GET / 200 in 789ms (next.js: 3ms, application-code: 786ms)
+ GET / 200 in 469ms (next.js: 4ms, application-code: 465ms)
+✓ Compiled in 105ms
+ GET / 200 in 423ms (next.js: 193ms, application-code: 230ms)
+[browser] An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string. 
+[browser] Image is missing required "src" property: [object HTMLImageElement] 
+ GET / 200 in 416ms (next.js: 214ms, application-code: 202ms)
+ GET / 200 in 76ms (next.js: 4ms, application-code: 72ms)
+✓ Compiled in 100ms
+ GET / 200 in 446ms (next.js: 199ms, application-code: 246ms)
+ GET / 200 in 128ms (next.js: 6ms, application-code: 122ms)
+ GET / 200 in 871ms (next.js: 3ms, application-code: 868ms)
+ GET / 200 in 495ms (next.js: 4ms, application-code: 491ms)
+[browser] Image with src "https://images.unsplash.com/photo-1570306296747-f7bb428e4fe0?q=80&w=1600&auto=format&fit=crop" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+ GET / 200 in 536ms (next.js: 5ms, application-code: 531ms)
+ GET / 200 in 411ms (next.js: 6ms, application-code: 405ms)
+✓ Compiled in 347ms
+ GET / 200 in 609ms (next.js: 183ms, application-code: 425ms)
+ GET / 200 in 316ms (next.js: 4ms, application-code: 312ms)
+ GET / 200 in 467ms (next.js: 64ms, application-code: 404ms)
+ GET / 200 in 469ms (next.js: 4ms, application-code: 465ms)
+ GET / 200 in 468ms (next.js: 168ms, application-code: 300ms)
+ GET / 200 in 470ms (next.js: 114ms, application-code: 355ms)
+ GET / 200 in 226ms (next.js: 6ms, application-code: 220ms)
+ GET / 200 in 225ms (next.js: 92ms, application-code: 133ms)
+✓ Compiled in 136ms
+ GET / 200 in 644ms (next.js: 171ms, application-code: 473ms)
+ GET / 200 in 355ms (next.js: 6ms, application-code: 349ms)
+ GET / 200 in 243ms (next.js: 5ms, application-code: 238ms)
+ GET / 200 in 244ms (next.js: 66ms, application-code: 178ms)
+ GET / 200 in 244ms (next.js: 143ms, application-code: 101ms)
+✓ Compiled in 161ms
+✓ Compiled in 159ms
+✓ Compiled in 309ms
+✓ Compiled in 146ms
+✓ Compiled in 151ms
+✓ Compiled in 152ms
+✓ Compiled in 70ms
+ GET / 200 in 365ms (next.js: 179ms, application-code: 186ms)
+ GET / 200 in 82ms (next.js: 3ms, application-code: 80ms)
+✓ Compiled in 72ms
+ GET / 200 in 332ms (next.js: 161ms, application-code: 171ms)
+ GET / 200 in 68ms (next.js: 4ms, application-code: 64ms)
+ GET / 200 in 373ms (next.js: 205ms, application-code: 168ms)
+ GET / 200 in 65ms (next.js: 3ms, application-code: 61ms)
+✓ Compiled in 101ms
+ GET / 200 in 284ms (next.js: 170ms, application-code: 114ms)
+ GET / 200 in 595ms (next.js: 209ms, application-code: 386ms)
+ GET / 200 in 237ms (next.js: 4ms, application-code: 233ms)
+ GET / 200 in 127ms (next.js: 56ms, application-code: 71ms)
+ GET / 200 in 129ms (next.js: 4ms, application-code: 125ms)
+✓ Compiled in 146ms
+✓ Compiled in 585ms
+ GET / 200 in 627ms (next.js: 266ms, application-code: 361ms)
+ GET / 200 in 201ms (next.js: 5ms, application-code: 195ms)
+ GET / 200 in 93ms (next.js: 5ms, application-code: 88ms)
+✓ Compiled in 194ms
+ GET / 200 in 236ms (next.js: 145ms, application-code: 91ms)
+✓ Compiled in 146ms
+ GET / 200 in 245ms (next.js: 150ms, application-code: 95ms)
+✓ Compiled in 520ms
+ GET / 200 in 1158ms (next.js: 303ms, application-code: 855ms)
+ GET / 200 in 724ms (next.js: 5ms, application-code: 719ms)
+ GET / 200 in 604ms (next.js: 17ms, application-code: 588ms)
+ GET / 200 in 603ms (next.js: 215ms, application-code: 388ms)
+ GET / 200 in 606ms (next.js: 353ms, application-code: 253ms)
+ GET / 200 in 145ms (next.js: 6ms, application-code: 139ms)
+ GET / 200 in 885ms (next.js: 215ms, application-code: 670ms)
+ GET / 200 in 533ms (next.js: 3ms, application-code: 530ms)
+ GET / 200 in 443ms (next.js: 6ms, application-code: 437ms)
+ GET / 200 in 443ms (next.js: 198ms, application-code: 245ms)
+ GET / 200 in 444ms (next.js: 290ms, application-code: 154ms)
+ GET / 200 in 446ms (next.js: 96ms, application-code: 351ms)
+✓ Compiled in 1486ms
+ GET / 200 in 1985ms (next.js: 235ms, application-code: 1750ms)
+ GET / 200 in 130ms (next.js: 12ms, application-code: 119ms)
+ GET / 200 in 2.0s (next.js: 418ms, application-code: 1631ms)
+✓ Compiled in 777ms
+ GET / 200 in 872ms (next.js: 189ms, application-code: 684ms)
+ GET / 200 in 584ms (next.js: 5ms, application-code: 579ms)
+ GET / 200 in 457ms (next.js: 7ms, application-code: 450ms)
+ GET / 200 in 456ms (next.js: 164ms, application-code: 292ms)
+ GET / 200 in 460ms (next.js: 89ms, application-code: 371ms)
+ GET / 200 in 216ms (next.js: 7ms, application-code: 209ms)
+ GET / 200 in 128ms (next.js: 4ms, application-code: 123ms)

@@ -1,0 +1,16 @@
+
+> bikezone@0.1.0 dev
+> next dev -p 5000
+
+▲ Next.js 16.2.12 (Turbopack)
+- Local:         http://localhost:5000
+- Network:       http://192.168.56.1:5000
+✓ Ready in 859ms
+
+○ Compiling / ...
+ GET / 200 in 930ms (next.js: 192ms, application-code: 737ms)
+ GET / 200 in 529ms (next.js: 7ms, application-code: 522ms)
+ GET /collection/honda-cb150f 200 in 2.3s (next.js: 1864ms, generate-params: 970ms, application-code: 403ms)
+ GET / 200 in 1088ms (next.js: 38ms, application-code: 1050ms)
+[browser] Image with src "https://images.unsplash.com/photo-1609630875171-b1321377ee65?q=80&w=1200&auto=format&fit=crop" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
